@@ -88,6 +88,7 @@ onboard==1.4.1
 packaging==20.3
 pandocfilters==1.4.3
 parso==0.8.2
+pbr==5.6.0
 pexpect==4.6.0
 pickleshare==0.7.5
 Pillow==7.0.0
@@ -143,6 +144,7 @@ soupsieve==1.9.5
 systemd-python==234
 terminado==0.10.1
 testpath==0.5.0
+testresources==2.0.1
 tldextract==2.2.1
 tornado==6.1
 traitlets==5.0.5
